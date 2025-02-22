@@ -7,3 +7,4 @@ password = ""
     #Generar un valor al azar de los caracteres
     #Concatenar el caracter al azar según
 #imprimir contraseña generada
+
